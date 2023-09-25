@@ -42,7 +42,7 @@ Uisng ths command `git checkout -b main`
 
 ![Alt text](<Delete branch.png>)
 
-## Pushing your locak git Repository to your Remote github Repository
+## Pushing your local git Repository to your Remote github Repository
 `git remote add origin <link to your github repo>`
 
 ![Alt text](<git remote add origin.png>)
